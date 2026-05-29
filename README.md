@@ -1,1 +1,0 @@
-# Solar_Radiation_Model
